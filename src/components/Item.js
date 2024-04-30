@@ -1,7 +1,7 @@
 function Item({marca, lancamento}) {
   return (
     <>
-     <li>{marca} - {lancamento} </li>
+     <li>{marca} - {lancamento}</li>
     </>
   )
 }
